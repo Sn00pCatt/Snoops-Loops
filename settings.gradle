@@ -1,0 +1,5 @@
+rootProject.name = 'Snoops&Loops'
+include 'commons'
+include 'forge'
+include 'reforged'
+
